@@ -36,7 +36,7 @@ const Navbar = () => {
 
         {/* Navigation Links for Desktop */}
         <div className="hidden md:flex space-x-8">
-          {['AboutMe', 'Projects', 'Skills', 'Testimonials', 'Contact'].map((section, index) => (
+          {['AboutMe','Skills','Projects','Testimonials','Contact'].map((section, index) => (
             <motion.a
               key={index}
               href={`#${section.toLowerCase()}`}

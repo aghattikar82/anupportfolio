@@ -18,11 +18,9 @@ const Testimonials = () => (
         whileHover={{ scale: 1.05 }}
       >
         <p className="text-lg italic mb-4 text-gray-700">
-          "Amazing experience working with this developer. Delivered high-quality work on time!"
-        
+        "The School Management System streamlined our administrative processes, making student management and fee collection effortless." 
         </p>
-        <h3 className="text-xl font-semibold text-blue-600">- Client Name 1</h3>
-        <p className="text-sm text-gray-500">CEO, Company 1</p>
+        <h3 className="text-xl font-semibold text-blue-600">- Private School</h3>
       </motion.div>
 
       <motion.div 
@@ -30,10 +28,9 @@ const Testimonials = () => (
         whileHover={{ scale: 1.05 }}
       >
         <p className="text-lg italic mb-4 text-gray-700">
-          "Great communication and excellent problem-solving skills. Highly recommended!"
+        "This Temple Management System has made event coordination and donor management incredibly smooth for our temple."
         </p>
-        <h3 className="text-xl font-semibold text-blue-600">- Client Name 2</h3>
-        <p className="text-sm text-gray-500">Founder, Company 2</p>
+        <h3 className="text-xl font-semibold text-blue-600">- Venkanteshwara Temple</h3>
       </motion.div>
     </div>
   </motion.div>

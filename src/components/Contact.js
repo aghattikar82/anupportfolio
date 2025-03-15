@@ -31,28 +31,37 @@ const Contact = () => {
           <ul className="mb-6">
             <li className="mb-4">
               <strong>Address:</strong> <br />
-              1234 Main Street, <br />
+              BTM 1st Stage, <br />
               Bangalore, India
             </li>
             <li className="mb-4">
               <strong>Email:</strong> <br />
-              yourname@example.com
+              aghattikar82@gmail.com
             </li>
             <li className="mb-4">
               <strong>Phone:</strong> <br />
-              +91 98765 43210
+              +91 87222 02312
             </li>
           </ul>
 
           <div className="flex space-x-4">
-            <a href="https://www.linkedin.com/in/aghattikar82/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-400">
-              LinkedIn
+            <a href="https://medium.com/@aghattikar82" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-400">
+              Medium
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-gray-400">
+            <a href="https://hashnode.com/@aghattikar82" target="_blank" rel="noopener noreferrer" className="text-gray-100 hover:text-gray-400">
+              Hashnode
+            </a>
+            <a href="https://twitter.com/aghattikar82?t=QvDmQHtL17Km1kqleO21cQ&s=09" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
+              Twitter
+            </a>
+            <a href="https://instagram.com/aghattikar82?igshid=ZDdkNTZiNTM=" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-400">
+              Instagram
+            </a>
+            <a href="https://github.com/aghattikar82" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-400">
               GitHub
             </a>
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
-              Twitter
+            <a href="https://www.linkedin.com/in/aghattikar82" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-400">
+              LinkedIn
             </a>
           </div>
 
